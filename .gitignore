@@ -1,0 +1,7 @@
+node_modules
+.env
+firebase.en
+auth.env
+yarn.lock
+package-lock.json
+yarn-error.log
